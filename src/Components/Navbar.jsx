@@ -47,9 +47,9 @@ const Navbar = () => {
             </Link>
           </li>
           <li>
-            <a href="#" className="block md:inline-block py-2">
+            <Link to="/onas" className="block md:inline-block py-2">
               O nas
-            </a>
+            </Link>
           </li>
           <li>
             <a href="#" className="block md:inline-block py-2">

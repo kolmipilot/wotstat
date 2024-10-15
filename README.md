@@ -1,2 +1,2 @@
 Prosta strona do sprawdzania statystyk w wocie. W przyszłości będzie rozwijana i będzie posiadała bardziej szczegółowe informacje.
-Aby odpalić ją musisz dodać do folderu src plik Pass.jsx z id twojego api. zapraszam do odwiedzenia strony na: .
+Aby odpalić ją musisz dodać do folderu src plik Pass.jsx z id twojego api. zapraszam do odwiedzenia strony na: https://wotstatbykolmipilot.web.app.
